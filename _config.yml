@@ -1,6 +1,6 @@
-name: Egbert TIgelaar 3D Diensten
+name: Egbert Tigelaar 3D Diensten
 favicon: null
-layout_spectrum: 0.6931346172932535
+layout_spectrum: 0.23757
 typography_spectrum: 0.5786931295879185
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5878713415004313
+  brandStrength: 0.5625
   lightness: 0.12909028981812298
   saturation: 0.013704793294891715
   rhythmicContrast: 0.4198225715663284
